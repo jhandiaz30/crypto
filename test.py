@@ -4,6 +4,8 @@ import os
 
 #eeeeeeeee
 
+#m
+
 key = os.urandom(16)
 
 print(key.hex())
